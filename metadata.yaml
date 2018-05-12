@@ -1,0 +1,43 @@
+_repo: English-Poor-Law-Policy_43472
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43472-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Webb, Beatrice
+    aliases:
+    - Potter, Beatrice
+    - Passfield, Beatrice Potter Webb, Baroness
+    - Webb, Mrs. Sidney
+    - Potter, Martha Beatrice
+    - Webb, Mrs. Sydney
+    - Webb, Beatrice Potter
+    birthdate: 1858
+    deathdate: 1943
+    gutenberg_agent_id: '42231'
+    url: http://www.gutenberg.org/2009/agents/42231
+  - agent_name: Webb, Sidney
+    aliases:
+    - Passfield, Sidney James Webb, Baron
+    - Webb, Sydney
+    birthdate: 1859
+    deathdate: 1947
+    gutenberg_agent_id: '42230'
+    url: http://www.gutenberg.org/2009/agents/42230
+description: ''
+gutenberg_issued: '2013-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poor laws -- Great Britain'
+- !lcsh 'Poor -- Great Britain'
+- !lcsh 'Great Britain. Royal Commission on Poor Laws and Relief of Distress'
+- !lcc 'HV'
+title: English Poor Law Policy
+url: http://www.gutenberg.org/ebooks/43472
